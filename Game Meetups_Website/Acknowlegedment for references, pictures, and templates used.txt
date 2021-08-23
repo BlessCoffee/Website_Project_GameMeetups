@@ -1,0 +1,11 @@
+1) Templates for navigation bar and pages using bootstrap - https://www.w3schools.com/bootstrap/bootstrap_templates.asp
+
+2) Pictures of forests from - https://www.pexels.com/photo/selective-focus-photography-of-turned-on-black-metal-framed-light-sconce-414144/
+
+3) Footer template - https://mdbootstrap.com/docs/standard/navigation/footer/
+
+4) Games used and mention - https://www.nomanssky.com/expeditions-update/
+			  - https://www.valheimgame.com/
+			  - https://www.halowaypoint.com/en-us/news?categoryName=Halo:%20The%20Master%20Chief%20Collection
+
+

@@ -1,0 +1,144 @@
+
+body{
+		color:#ffffff;
+    font:Verdana;
+	}
+
+.forest_pic1{
+  background-position: top;
+  background-image: url(images/forest_pic_1.jpg);
+  background-size: 100%;
+  background-repeat:repeat;
+}
+
+.forest_pic2{
+  background-position: top;
+  background-image: url(images/forest_pic_2.jpg);
+  background-size: 200%;
+  background-repeat:repeat;
+}
+
+.forest_pic3{
+  background-position: top;
+  background-image: url(images/forest_pic_3.jpg);
+  background-size: 200%;
+  background-repeat:repeat;
+}
+
+.forest_pic4{
+  background-position: top;
+  background-image: url(images/forest_pic_4.jpg);
+  background-size: 100%;
+  background-repeat:repeat;
+}
+
+.forest_pic5{
+  background-position: top;
+  background-image: url(images/forest_pic_5.jpg);
+  background-size: 100%;
+  background-repeat:repeat;
+}
+
+.forest_pic6{
+  background-position: top;
+  background-image: url(images/forest_pic_6.jpg);
+  background-size: 170%;
+  background-repeat:repeat;
+}
+
+
+.textbox{
+
+		background-color:#804000;
+		border-color:#804000;
+	}
+
+	/* Remove the navbar's default margin-bottom and rounded borders */ 
+    
+.navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+    }
+
+p{
+  font-size: 20px;
+}
+
+    
+    /* Add a gray background color and some padding to the footer */
+footer {
+    padding: 25px;
+  }
+  
+	.carousel-inner img {
+    width: 100%; /* Set width to 100% */
+    margin: auto;
+    min-height:200px;
+}
+
+    /* Hide the carousel text when the screen is less than 600 pixels wide */
+@media (max-width: 600px) {
+      .carousel-caption {
+        display: none; 
+      }
+    }
+
+.fontcolor{
+  color:white;
+} 
+
+.content_color{
+  background-color:#804000;
+  color:white;
+}
+
+.content_color2{
+  background-color:#ffc78f;
+  color:black;
+}
+
+.content_color3{
+ background-color:#e68019;
+ color:black;
+}
+
+.sidebars{
+  background-color:#804000;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+#myInput {
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  width: 100%;
+  font-size: 20px;
+  padding: ;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+  background-color:#d9d9d9;
+  color:black;
+}
+
+#myTable {
+  border-collapse: collapse;
+  width: 100%;
+  border: 1px solid black;
+  font-size: 18px;
+}
+
+#myTable th, #myTable td {
+  text-align: left;
+  padding: 12px;
+}
+
+#myTable tr {
+  border-bottom: 1px solid black;
+}
+
+#myTable tr.header, #myTable tr:hover {
+  background-color: #ff884d;
+  color:white;
+}
