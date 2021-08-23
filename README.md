@@ -4,5 +4,5 @@ We were task to create a website to register participants for events for our web
 
 
       Developer      : Ajay Samuel Sevaram
-      Languages used : PHP, JavaScript, HTML5 and CSS
+      Languages used : PHP, HTML5 and CSS
                 
